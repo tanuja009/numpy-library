@@ -1,1 +1,1 @@
-# numpy-library
+# libraries of python
